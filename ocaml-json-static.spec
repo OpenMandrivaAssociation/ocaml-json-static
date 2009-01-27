@@ -3,7 +3,7 @@ Version:        0.9.6
 Release:        %mkrel 1
 Summary:        OCaml JSON validator and converter (syntax extension)
 License:        BSD
-Group:          Development/Libraries
+Group:          Development/Other
 URL:            http://martin.jambon.free.fr/json-static.html
 Source0:        http://martin.jambon.free.fr/json-static-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
