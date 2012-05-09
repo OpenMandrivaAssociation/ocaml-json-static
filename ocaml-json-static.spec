@@ -1,6 +1,6 @@
 Name:           ocaml-json-static
 Version:        0.9.8
-Release:        %mkrel 1
+Release:        2
 Summary:        OCaml JSON validator and converter (syntax extension)
 License:        BSD
 Group:          Development/Other
