@@ -4,7 +4,7 @@
 Summary:	OCaml JSON validator and converter (syntax extension)
 Name:		ocaml-json-static
 Version:	0.9.8
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/Other
 Url:		http://martin.jambon.free.fr/json-static.html
