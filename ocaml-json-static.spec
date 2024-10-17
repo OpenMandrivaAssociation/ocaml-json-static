@@ -7,7 +7,7 @@ Version:	0.9.8
 Release:	4
 License:	BSD
 Group:		Development/Other
-Url:		http://martin.jambon.free.fr/json-static.html
+Url:		https://martin.jambon.free.fr/json-static.html
 Source0:	http://martin.jambon.free.fr/json-static-%{version}.tar.bz2
 BuildRequires:	camlp4
 BuildRequires:	ocaml
