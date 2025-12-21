@@ -9,6 +9,7 @@ License:	BSD
 Group:		Development/Other
 Url:		https://martin.jambon.free.fr/json-static.html
 Source0:	http://martin.jambon.free.fr/json-static-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	camlp4
 BuildRequires:	ocaml
 BuildRequires:	ocaml-findlib-devel
